@@ -4,7 +4,7 @@
 
 🌐 Live Demo: https://alamincse2003.github.io/AlAminPortfolio/
 
-![image](https://github.com/user-attachments/assets/1d50510a-d5a3-42d3-ae96-d371ec7cdebd)
+![alt text](image-1.png)
 
 A modern, responsive personal portfolio website built with React to showcase my skills, projects, and contact information.
 
